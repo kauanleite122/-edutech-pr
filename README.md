@@ -1,2 +1,1 @@
-# 
-edutech-pr
+# edutech-pr
