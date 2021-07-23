@@ -1,0 +1,68 @@
+.caixa {
+	position: relative;
+	width:950px;
+	margin: 0 auto;
+
+}
+
+.copyright {
+	color: #FFFFFF;
+	font-size: 13px;
+	margin: 20px 0 0;
+}
+
+
+h1{
+	font-size: 50px
+}
+
+p, li{
+	font-size: 30px
+}
+
+h3{
+
+	font-size: 40px  
+
+	   }
+
+
+li,h1{
+
+	font-style: italic;
+}
+
+footer {
+	text-align: center;
+	background: url("bg.jpg");
+	padding: 40px 0;
+}
+
+
+
+
+.tipo{
+	width:950px;
+	height:450px;
+	border-radius: 10px;
+	}
+
+.grafico{
+
+border-radius: 10px;
+
+}
+
+nav a{
+
+    color: red;
+	text-decoration: none;
+
+
+}
+
+nav a:hover {
+
+	color: darkred;
+	text-decoration: underline;
+}
